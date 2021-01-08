@@ -1,7 +1,7 @@
 # Election
 
 
-⋅⋅⋅This is my Election DAPP which helps to cast Vote safely and the contracts are deployed on local Ethereum Blockchain using Ganache. 
+⋅⋅⋅This is my Election DAPP which helps to cast Vote safely and the contracts are deployed on local Ethereum Blockchain using Ganache.⋅⋅⋅
 
 
 ### Dependencies Download Links for Linux :
@@ -12,11 +12,11 @@
 
 + [Ganache](https://www.trufflesuite.com/ganache) 
 
-⋅⋅⋅To run Ganache we have to download the AppImage file from the link here and to run Gaache follow the commands listed below :
+⋅⋅⋅To run Ganache we have to download the AppImage file from the link here and to run Gaache follow the commands listed below :⋅⋅⋅
 
-⋅⋅⋅`chmod +x ganache-2.5.4-linux-x86_64.AppImage`
+⋅⋅⋅`chmod +x ganache-2.5.4-linux-x86_64.AppImage`⋅⋅⋅
 
-⋅⋅⋅`chmod +x ganache-2.5.4-linux-x86_64.AppImage`
+⋅⋅⋅`chmod +x ganache-2.5.4-linux-x86_64.AppImage`⋅⋅⋅
 
 
 
