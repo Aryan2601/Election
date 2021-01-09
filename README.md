@@ -15,7 +15,9 @@ This is my Election DAPP which helps to cast Vote safely and the contracts are d
 To run Ganache we have to download the AppImage file from the link here and to run Gaache follow the commands listed below :
 
 `chmod +x ganache-2.5.4-linux-x86_64.AppImage`
-`chmod +x ganache-2.5.4-linux-x86_64.AppImage`
+
+
+`./ganache-2.5.4-linux-x86_64.AppImage`
 
 + [Metamask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 
